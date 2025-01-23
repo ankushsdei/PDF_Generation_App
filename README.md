@@ -37,5 +37,3 @@ This is a simple application for generating PDF files from user input.
 3. Download the generated PDF file.
 
 ---
-
-Happy Coding!
